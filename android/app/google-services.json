@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873694078651",
+    "project_id": "fcmlocalnotificationcheck",
+    "storage_bucket": "fcmlocalnotificationcheck.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873694078651:android:4ae881eb89b9dc7dafeb9e",
+        "android_client_info": {
+          "package_name": "com.sabikrahat.fcm_local_notification_check"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873694078651-nqfedbediirp25kld307ic2cdcmbma26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYmqE0hJP1udMKlDwgKQDhLcaARJB-J3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873694078651-nqfedbediirp25kld307ic2cdcmbma26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
